@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project for getting reaquainted with HTML/CSS and git, after taking a two-plus year hiatus from coding.
